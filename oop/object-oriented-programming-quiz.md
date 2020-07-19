@@ -138,3 +138,27 @@ Association is whole/part relationship where one object is composed of one or mo
 - Abstraction is using public member functions to access and manipulate the data members **<<-- correct
 - Abstraction is using the class concept with both data members and member functions
 - There is insufficient information to decide where abstraction is being used.
+
+#### Q24. In multilevel inheritance one class inherits _______________
+- Only one class
+- More than one class
+- At least one class
+- As many classes as required
+
+#### Q25. Which Class is having highest degree of abstraction in multilevel inheritance of 5 levels?
+- Class at 1st level -- Picked this not sure
+- Class 2nd last level
+- Class at 5th level
+- All with same abstraction
+
+#### Q26. Can abstract classes be used in multilevel inheritance?
+- Yes, always
+- Yes, only one abstract class
+- No, abstract class doesn’t have constructors
+- No, never
+
+#### Q27. If an object is passed by reference, the changes made in the function ___________
+- to the main object of caller function too -- Picked this not sure
+- only in local scope of the called function
+- to the copy of the object that is made during pass
+- to caller function object and called function object also
